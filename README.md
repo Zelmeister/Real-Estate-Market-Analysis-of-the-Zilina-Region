@@ -1,5 +1,5 @@
 # Real Estate Market Analysis of the Žilina Region
-This is a complex analysis of the real estate market in the Žilina Region as off October 30 2025 based on data from the real estate web portal Nehnuteľnosti.sk. The project includes detailed analyses of prices, rent, competition and investment potential across districts, areas, property types and more.
+This is a complex analysis of the real estate market in the Žilina Region (Slovakia) as off October 30 2025 based on data from the real estate web portal Nehnuteľnosti.sk. The project includes detailed analyses of prices, rent, competition and investment potential across districts, areas, property types and more.
 <br/>
 <br/>
 <img width="1148" height="643" alt="01" src="https://github.com/user-attachments/assets/dbc3bda1-1a87-4ecd-add6-b9bf9b271379" />
