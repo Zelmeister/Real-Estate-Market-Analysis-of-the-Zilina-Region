@@ -38,7 +38,7 @@ This is a complex analysis of the real estate market in the Žilina Region (Slov
 <img width="1148" height="644" alt="12" src="https://github.com/user-attachments/assets/9e99105b-e06b-4df0-bba6-8730f0de4e41" />
 <br/>
 <br/>
-<img width="1148" height="646" alt="13" src="https://github.com/user-attachments/assets/cbf0a307-cfd3-41c3-a9a1-b226ece1339d" />
+<img width="1148" height="644" alt="13" src="https://github.com/user-attachments/assets/21382653-6262-4b6a-8c4f-f30d32a89ecf" />
 <br/>
 <br/>
 <img width="1148" height="646" alt="14" src="https://github.com/user-attachments/assets/e608603f-9c80-4742-a0dd-a248e945248e" />
