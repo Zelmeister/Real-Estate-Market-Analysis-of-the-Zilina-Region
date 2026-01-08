@@ -50,7 +50,7 @@ This is a complex analysis of the real estate market in the Žilina Region (Slov
 <img width="1148" height="645" alt="16" src="https://github.com/user-attachments/assets/929f9bab-7647-4c80-baf3-a998f9e3acfc" />
 <br/>
 <br/>
-<img width="1148" height="644" alt="17" src="https://github.com/user-attachments/assets/bf016d40-2a43-44b6-b221-bff91da3e9d3" />
+<img width="1147" height="644" alt="17" src="https://github.com/user-attachments/assets/5d81b591-77fa-49b3-9fc8-114f08ecd3c5" />
 <br/>
 <br/>
 <img width="1150" height="645" alt="18" src="https://github.com/user-attachments/assets/1c2e9518-4ad4-4293-b342-79a1f4214009" />
@@ -59,7 +59,7 @@ This is a complex analysis of the real estate market in the Žilina Region (Slov
 <img width="1148" height="644" alt="19" src="https://github.com/user-attachments/assets/a1848bb1-bc8b-4297-80b4-0282e0719886" />
 <br/>
 <br/>
-<img width="1148" height="643" alt="20" src="https://github.com/user-attachments/assets/83ca2d91-6a41-4ec5-8016-2a408439c944" />
+<img width="1149" height="645" alt="20" src="https://github.com/user-attachments/assets/54e4af01-4038-4156-b4a0-d5e0d0dcc3f1" />
 <br/>
 <br/>
 <img width="1148" height="644" alt="21" src="https://github.com/user-attachments/assets/a13d5517-53ba-4940-88e9-86b4e374a11a" />
@@ -68,7 +68,7 @@ This is a complex analysis of the real estate market in the Žilina Region (Slov
 <img width="1147" height="644" alt="22" src="https://github.com/user-attachments/assets/0ef6e596-3dee-40da-b2f9-b96b30bad109" />
 <br/>
 <br/>
-<img width="1148" height="645" alt="23" src="https://github.com/user-attachments/assets/f2ca3249-1782-4011-a7e2-089988a8cd98" />
+<img width="1147" height="643" alt="23" src="https://github.com/user-attachments/assets/3318aba8-e358-4f0a-addd-eb617b209f8b" />
 <br/>
 <br/>
 <img width="1148" height="645" alt="24" src="https://github.com/user-attachments/assets/114bd347-9e9b-40a0-8d3c-33ee45ded312" />
@@ -104,7 +104,7 @@ This is a complex analysis of the real estate market in the Žilina Region (Slov
 <img width="1149" height="645" alt="34" src="https://github.com/user-attachments/assets/839ecb5f-92ee-4f56-a0c1-2232858cb384" />
 <br/>
 <br/>
-<img width="1148" height="645" alt="35" src="https://github.com/user-attachments/assets/26fd3516-0bd4-4110-ae17-206e039ada2e" />
+<img width="1148" height="644" alt="35" src="https://github.com/user-attachments/assets/798f1044-1d7f-4663-9f8c-968260d8dc92" />
 <br/>
 <br/>
 <img width="1148" height="646" alt="36" src="https://github.com/user-attachments/assets/71b34e91-940c-47d7-b01f-19e5973df018" />
@@ -117,8 +117,19 @@ This is a complex analysis of the real estate market in the Žilina Region (Slov
 <br/>
 <br/>
 <img width="1148" height="644" alt="39" src="https://github.com/user-attachments/assets/217ad30f-2bd0-483d-b3f9-0cbe61e18015" />
+<br/>
+<br/>
 <img width="1148" height="644" alt="40" src="https://github.com/user-attachments/assets/ccbe55d1-6ee2-4f81-bb2c-fbb9915e9eb4" />
-<img width="1148" height="644" alt="41" src="https://github.com/user-attachments/assets/ac04a082-6f14-4690-bde1-220458e7c3d2" />
+<br/>
+<br/>
+<img width="1149" height="645" alt="41" src="https://github.com/user-attachments/assets/b62f7620-ead0-4fa8-a18b-1e6fcfbf7b25" />
+<br/>
+<br/>
 <img width="1149" height="644" alt="42" src="https://github.com/user-attachments/assets/78154b29-969c-455f-b859-074a6500b85c" />
+<br/>
+<br/>
 <img width="1149" height="644" alt="43" src="https://github.com/user-attachments/assets/01c233e1-17b0-486e-948b-abe5d77e8285" />
-<img width="1148" height="645" alt="44" src="https://github.com/user-attachments/assets/015f0498-e3b7-4553-b19a-9e4ddab604c3" />
+<br/>
+<br/>
+<img width="1148" height="644" alt="44" src="https://github.com/user-attachments/assets/c9025b6b-6eb9-43d8-bad4-26e696fcbb60" />
+
